@@ -1,13 +1,1191 @@
-Politicas de la empresa XYZ
+MANUAL COMPLETO DE POLITICAS Y PROCEDIMIENTOS EMPRESARIALES
+EMPRESA: TechCorp Solutions S.A. de C.V.
+VERSION: 3.2
+ULTIMA ACTUALIZACION: Enero 2025
 
-Horario de trabajo: Lunes a viernes de 9:00 AM a 6:00 PM
+================================================================================
+SECCION 1: INFORMACION GENERAL DE LA EMPRESA
+================================================================================
 
-Dias de vacaciones: 15 dias al año para empleados con menos de 5 años de antiguedad, 20 dias para empleados con mas de 5 años.
+1.1 MISION Y VISION
 
-Politica de trabajo remoto: Permitido hasta 2 dias por semana previa autorizacion del supervisor.
+Mision:
+TechCorp Solutions es una empresa dedicada al desarrollo de soluciones tecnologicas innovadoras que transforman la manera en que las organizaciones operan. Nos comprometemos a ofrecer productos y servicios de la mas alta calidad, manteniendo siempre un enfoque centrado en el cliente y fomentando un ambiente de trabajo colaborativo e inclusivo.
 
-Beneficios: Seguro medico completo, vales de despensa, bonos por desempeño trimestrales.
+Vision:
+Ser reconocidos como lideres en innovacion tecnologica a nivel internacional para el año 2030, expandiendo nuestra presencia en al menos 25 paises y manteniendo una tasa de satisfaccion del cliente superior al 95%. Aspiramos a crear un impacto positivo en la sociedad mediante el desarrollo de tecnologias sostenibles y accesibles.
 
-Proceso de solicitud de permisos: Enviar correo a recursos humanos con al menos 48 horas de anticipacion.
+Valores Corporativos:
+- Innovacion: Fomentamos la creatividad y el pensamiento disruptivo
+- Integridad: Actuamos con honestidad y transparencia en todas nuestras operaciones
+- Excelencia: Buscamos la mejora continua en todo lo que hacemos
+- Colaboracion: Trabajamos en equipo para alcanzar objetivos comunes
+- Responsabilidad Social: Contribuimos al desarrollo sostenible de nuestras comunidades
 
-Codigo de vestimenta: Business casual de lunes a jueves, casual los viernes.
+1.2 ESTRUCTURA ORGANIZACIONAL
+
+La empresa cuenta con las siguientes divisiones principales:
+
+- Division de Desarrollo de Software: 250 empleados
+- Division de Infraestructura y Cloud: 180 empleados
+- Division de Ciberseguridad: 120 empleados
+- Division de Inteligencia Artificial y Machine Learning: 150 empleados
+- Division de Atencion al Cliente: 200 empleados
+- Division de Recursos Humanos: 45 empleados
+- Division de Finanzas y Administracion: 60 empleados
+- Division de Marketing y Ventas: 95 empleados
+
+Total de empleados: 1,100
+
+================================================================================
+SECCION 2: POLITICAS DE RECURSOS HUMANOS
+================================================================================
+
+2.1 RECLUTAMIENTO Y SELECCION
+
+Proceso de Contratacion:
+1. Publicacion de vacante (interna y externa): 5 dias habiles
+2. Revision de candidatos: 3-5 dias habiles
+3. Primera entrevista (RR.HH.): 30 minutos
+4. Evaluacion tecnica: 2-4 horas segun el puesto
+5. Segunda entrevista (Gerencia de area): 45-60 minutos
+6. Entrevista final (Direccion): 30-45 minutos para puestos gerenciales
+7. Verificacion de referencias: 2-3 dias habiles
+8. Oferta de empleo: 1 dia habil
+9. Periodo de respuesta del candidato: 5 dias habiles
+
+Requisitos Generales:
+- Curriculum vitae actualizado
+- Identificacion oficial vigente
+- CURP
+- RFC
+- Comprobante de domicilio no mayor a 3 meses
+- Comprobante de estudios
+- Certificados de cursos o especializaciones
+- Cartas de recomendacion (minimo 2)
+- Certificado medico (expedido por medico certificado)
+- Carta de antecedentes no penales
+
+2.2 ONBOARDING E INDUCCION
+
+Programa de Integracion (Primera Semana):
+
+Dia 1:
+- Bienvenida oficial por parte del Director de RR.HH. (9:00 AM)
+- Entrega de equipo de computo y accesos
+- Recorrido por las instalaciones
+- Presentacion del equipo de trabajo
+- Capacitacion en sistemas internos basicos
+- Firma de documentos contractuales y de confidencialidad
+
+Dia 2-3:
+- Capacitacion en cultura organizacional (8 horas)
+- Curso de seguridad de la informacion (4 horas)
+- Introduccion a herramientas colaborativas
+- Asignacion de mentor corporativo
+
+Dia 4-5:
+- Capacitacion especifica del area
+- Primeras asignaciones de tareas supervisadas
+- Sesion de preguntas y respuestas con el gerente directo
+
+Mes 1-3:
+- Seguimiento semanal con mentor
+- Evaluacion mensual de desempeño
+- Ajustes al plan de desarrollo individual
+
+2.3 HORARIOS Y ASISTENCIA
+
+Horarios Estandar:
+- Turno matutino: 8:00 AM - 5:00 PM (Lunes a Viernes)
+- Turno vespertino: 2:00 PM - 11:00 PM (para areas de soporte)
+- Turno nocturno: 10:00 PM - 7:00 AM (para monitoreo 24/7)
+
+Horario Flexible:
+Los empleados de nivel coordinador en adelante pueden optar por horario flexible con las siguientes condiciones:
+- Horario nucleo obligatorio: 10:00 AM - 3:00 PM
+- Completar 8 horas diarias de trabajo
+- Notificar al supervisor el horario elegido con 48 horas de anticipacion
+- Estar disponible para reuniones programadas
+
+Comida:
+- 1 hora para empleados de nivel operativo y coordinacion
+- Flexible para niveles gerenciales (se recomienda 1 hora)
+- Horario de comida: Entre 1:00 PM y 3:00 PM
+
+Tolerancia y Retardos:
+- Tolerancia: 10 minutos despues de la hora de entrada
+- Mas de 10 minutos: Se considera retardo
+- 3 retardos en un mes: Equivalen a 1 falta injustificada
+- Mas de 30 minutos de retraso: Se considera media falta
+- Mas de 2 horas de retraso: Falta completa
+
+Registro de Asistencia:
+- Sistema biometrico de huella digital a la entrada y salida
+- Check-in virtual para empleados en home office
+- Registro obligatorio de entrada, salida a comer, regreso de comer y salida final
+
+2.4 VACACIONES Y DIAS DE DESCANSO
+
+Periodo Vacacional:
+
+Primer año: 12 dias habiles
+Segundo año: 14 dias habiles
+Tercer año: 16 dias habiles
+Cuarto año: 18 dias habiles
+Quinto año: 20 dias habiles
+Sexto año en adelante: 22 dias habiles + 2 dias adicionales cada 5 años
+
+Lineamientos:
+- Las vacaciones deben solicitarse con al menos 15 dias de anticipacion
+- Maximo 50% del equipo puede estar de vacaciones simultaneamente
+- Periodos no recomendados: Cierre de trimestre, lanzamientos de productos
+- Se pueden fraccionar en periodos minimos de 3 dias
+- Los dias no utilizados NO son acumulables mas alla del periodo fiscal
+- Se otorga prima vacacional del 25% sobre el salario correspondiente
+
+Dias Festivos Oficiales (Pagados):
+- 1 de enero: Año Nuevo
+- Primer lunes de febrero: Dia de la Constitucion
+- Tercer lunes de marzo: Natalicio de Benito Juarez
+- 1 de mayo: Dia del Trabajo
+- 16 de septiembre: Dia de la Independencia
+- Tercer lunes de noviembre: Dia de la Revolucion Mexicana
+- 25 de diciembre: Navidad
+
+Dias Adicionales de la Empresa:
+- 24 de diciembre: Medio dia (salida 2:00 PM)
+- 31 de diciembre: Medio dia (salida 2:00 PM)
+- Cumpleaños del empleado: Dia libre (debe programarse con 1 semana de anticipacion)
+
+2.5 PERMISOS Y LICENCIAS
+
+Permisos Con Goce de Sueldo:
+
+Permiso por Paternidad:
+- 5 dias habiles posteriores al nacimiento
+- Documentacion requerida: Acta de nacimiento del menor
+
+Permiso por Matrimonio:
+- 5 dias habiles
+- Debe tomarse dentro de los 30 dias posteriores a la fecha de matrimonio
+- Documentacion: Acta de matrimonio
+
+Permiso por Defuncion de Familiar Directo:
+- 3 dias habiles por padre, madre, hijo, hija, conyuge
+- 1 dia por hermano, abuelo, nieto
+- Documentacion: Acta de defuncion
+
+Permiso por Cita Medica:
+- Hasta 2 horas por mes para citas medicas personales
+- Debe presentarse comprobante medico
+- Programar con 24 horas de anticipacion cuando sea posible
+
+Permiso por Tramites Oficiales:
+- Hasta 4 horas al año para tramites gubernamentales
+- Requiere comprobante oficial
+
+Permisos Sin Goce de Sueldo:
+
+Licencia Personal:
+- Hasta 30 dias al año
+- Debe solicitarse con 15 dias de anticipacion
+- Aprobacion sujeta a necesidades operativas
+
+Licencia por Estudios:
+- Hasta 6 meses para estudios de posgrado relacionados con el puesto
+- Requiere compromiso de permanencia de 2 años posterior a la licencia
+- Debe presentar plan de estudios y carta de aceptacion
+
+Sabático:
+- Disponible para empleados con mas de 5 años de antiguedad
+- Duracion: 1-3 meses
+- Frecuencia: Una vez cada 5 años
+- Debe solicitarse con 6 meses de anticipacion
+
+2.6 TRABAJO REMOTO (HOME OFFICE)
+
+Elegibilidad:
+- Empleados con minimo 6 meses de antiguedad
+- Evaluacion de desempeño minimo "Satisfactorio"
+- Puesto compatible con trabajo remoto
+- Contar con espacio adecuado y conectividad estable
+
+Modalidades:
+
+Hibrido (Mas Comun):
+- 2-3 dias por semana desde casa
+- Dias a elegir en coordinacion con el equipo
+- Debe mantenerse al menos 2 dias presenciales
+
+Remoto Total:
+- Solo para puestos especificos aprobados por Direccion
+- Requiere visita a oficina 1 vez al mes minimo
+- Evaluacion trimestral de productividad
+
+Requisitos Tecnicos:
+- Conexion a internet minima de 50 Mbps
+- Espacio de trabajo dedicado
+- Silla ergonomica
+- Disponibilidad durante horario laboral
+- Uso de VPN corporativa obligatorio
+
+Reglas de Home Office:
+- Estar disponible en horario laboral completo
+- Responder mensajes en maximo 30 minutos
+- Asistir a videollamadas con camara encendida
+- Cumplir con todas las entregas en tiempo y forma
+- Reportar daily standup por escrito antes de las 10:00 AM
+
+Equipo Proporcionado:
+- Laptop corporativa
+- Mouse y teclado
+- Diadema con microfono
+- Monitor adicional (para ciertos puestos)
+- Subsidio de internet: $500 MXN mensuales
+
+2.7 CAPACITACION Y DESARROLLO
+
+Programa de Capacitacion Anual:
+- Presupuesto individual: $15,000 - $50,000 MXN segun nivel
+- Minimo 40 horas de capacitacion al año
+- Combinacion de cursos internos y externos
+
+Tipos de Capacitacion:
+
+Capacitacion Tecnica:
+- Certificaciones en tecnologias especificas
+- Cursos de actualizacion en herramientas
+- Conferencias y seminarios tecnologicos
+- Subscripciones a plataformas educativas (Pluralsight, Udemy Business, Coursera)
+
+Capacitacion en Habilidades Blandas:
+- Liderazgo y gestion de equipos
+- Comunicacion efectiva
+- Resolucion de conflictos
+- Gestion del tiempo
+- Inteligencia emocional
+
+Programa de Mentoria:
+- Asignacion de mentor senior a nuevos empleados
+- Sesiones mensuales de 1 hora
+- Seguimiento de plan de carrera
+
+Plan de Carrera:
+- Evaluacion anual de competencias
+- Identificacion de brechas de conocimiento
+- Plan de desarrollo individualizado
+- Oportunidades de promocion interna (80% de puestos gerenciales se cubren internamente)
+
+2.8 EVALUACION DE DESEMPEÑO
+
+Frecuencia:
+- Evaluacion formal: 2 veces al año (Junio y Diciembre)
+- Retroalimentacion informal: Mensual
+- Autoevaluacion: Trimestral
+
+Criterios de Evaluacion:
+
+Desempeño Tecnico (40%):
+- Cumplimiento de objetivos
+- Calidad del trabajo
+- Conocimientos tecnicos
+- Innovacion y mejora continua
+
+Competencias Organizacionales (30%):
+- Trabajo en equipo
+- Comunicacion
+- Adaptabilidad
+- Orientacion a resultados
+
+Valores y Cultura (20%):
+- Alineacion con valores corporativos
+- Actitud y compromiso
+- Responsabilidad
+- Etica profesional
+
+Liderazgo (10% - Solo puestos gerenciales):
+- Desarrollo de talento
+- Toma de decisiones
+- Vision estrategica
+- Gestion del cambio
+
+Escala de Calificacion:
+- Excepcional (5): Supera expectativas consistentemente
+- Sobresaliente (4): Supera expectativas frecuentemente
+- Satisfactorio (3): Cumple expectativas
+- Necesita Mejorar (2): Por debajo de expectativas
+- Insatisfactorio (1): Muy por debajo de expectativas
+
+Consecuencias:
+- Excepcional/Sobresaliente: Bono adicional, consideracion para promocion
+- Satisfactorio: Aumento salarial estandar
+- Necesita Mejorar: Plan de mejora de 90 dias
+- Insatisfactorio: Plan de mejora de 60 dias o terminacion
+
+================================================================================
+SECCION 3: COMPENSACIONES Y BENEFICIOS
+================================================================================
+
+3.1 ESTRUCTURA SALARIAL
+
+Bandas Salariales (Mensual Bruto en MXN):
+
+Nivel Junior:
+- Desarrollador Junior: $18,000 - $25,000
+- Analista Junior: $16,000 - $22,000
+- Soporte Tecnico I: $14,000 - $18,000
+
+Nivel Semi-Senior:
+- Desarrollador Semi-Senior: $25,000 - $35,000
+- Analista Semi-Senior: $22,000 - $30,000
+- Soporte Tecnico II: $18,000 - $25,000
+
+Nivel Senior:
+- Desarrollador Senior: $35,000 - $50,000
+- Arquitecto de Software: $45,000 - $65,000
+- Especialista en Seguridad: $40,000 - $60,000
+
+Nivel Coordinacion:
+- Coordinador de Proyecto: $40,000 - $55,000
+- Scrum Master: $38,000 - $52,000
+- Team Lead: $42,000 - $58,000
+
+Nivel Gerencial:
+- Gerente de Area: $60,000 - $90,000
+- Gerente de Proyecto: $55,000 - $80,000
+
+Nivel Direccion:
+- Director de Area: $100,000 - $150,000
+- Director General: $180,000 - $250,000
+
+Revisiones Salariales:
+- Anual: Ajuste por inflacion + merito
+- Promocion: Aumento del 15-30% segun nuevo puesto
+- Ajuste de mercado: Revision cada 2 años
+
+3.2 BONOS E INCENTIVOS
+
+Bono de Desempeño Anual:
+- Excepcional: 3 meses de salario
+- Sobresaliente: 2 meses de salario
+- Satisfactorio: 1 mes de salario
+- Pago: Primera quincena de Diciembre
+
+Bono por Cumplimiento de Objetivos (Trimestral):
+- Cumplimiento 90-100%: $5,000 - $15,000 segun nivel
+- Cumplimiento 100%+: Bono adicional del 20%
+
+Bono por Referidos:
+- Referido contratado: $5,000
+- Referido completa 6 meses: $10,000 adicionales
+- Puestos criticos: Hasta $25,000
+
+Reconocimientos Especiales:
+- Empleado del Mes: $3,000 + Diploma
+- Mejor Proyecto del Año: $15,000 + Trophy
+- Innovacion Destacada: $10,000
+
+3.3 PRESTACIONES SUPERIORES A LA LEY
+
+Seguro de Gastos Medicos Mayores:
+- Cobertura individual: 100% empresa
+- Cobertura familiar (conyuge e hijos): 50% empresa
+- Suma asegurada: $3,000,000 - $10,000,000 segun nivel
+- Deducible: $15,000
+- Coaseguro: 10%
+- Redes: Medica Sur, Angeles, ABC
+
+Seguro de Vida:
+- Cobertura: 36 meses de salario
+- Muerte natural: 100%
+- Muerte accidental: 200%
+- Invalidez total: 100%
+- Gastos funerarios: $150,000
+
+Fondo de Ahorro:
+- Aportacion empresa: 8% del salario
+- Aportacion empleado: 8% del salario
+- Tope mensual de aportacion: $5,000
+- Devolucion: Diciembre de cada año
+- Rendimiento adicional: 3% anual
+
+Vales de Despensa:
+- Empleados operativos: $2,000 mensuales
+- Coordinadores: $2,500 mensuales
+- Gerentes: $3,500 mensuales
+- Directores: $5,000 mensuales
+
+Vales de Gasolina:
+- Niveles gerenciales: $4,000 mensuales
+- Niveles direccion: $8,000 mensuales
+
+Ayuda para Transporte:
+- Subsidio mensual: $1,000
+- O servicio de transporte empresarial desde puntos clave
+
+Comedor Subsidiado:
+- Desayuno: $25 (costo real $80)
+- Comida: $45 (costo real $120)
+- Cena: $35 (costo real $90)
+
+Gimnasio:
+- Convenio con cadena de gimnasios (50% descuento)
+- O instalaciones en oficina principal
+
+Dias Adicionales:
+- Cumpleaños
+- Aniversario laboral (a partir del 5to año)
+
+Apoyo Educativo:
+- Hijos de empleados: $3,000 anuales por hijo (nivel basico)
+- Hijos de empleados: $5,000 anuales por hijo (nivel medio superior)
+- Empleado estudios de posgrado: 50% de colegiatura (tope $60,000 anuales)
+
+Prestamo de Emergencia:
+- Hasta 3 meses de salario
+- Sin intereses
+- Descuento en 12 quincenas
+
+Licencia de Maternidad Extendida:
+- 12 semanas con goce total de sueldo (ley: 12 semanas)
+- 4 semanas adicionales con 50% de sueldo
+
+Guarderia:
+- Subsidio mensual: $2,500 por hijo menor de 4 años
+
+================================================================================
+SECCION 4: CODIGO DE CONDUCTA Y ETICA
+================================================================================
+
+4.1 PRINCIPIOS GENERALES
+
+Respeto y Dignidad:
+- Trato respetuoso hacia todos los compañeros, clientes y proveedores
+- Cero tolerancia a discriminacion por genero, edad, raza, religion, orientacion sexual, discapacidad
+- Prohibido el acoso de cualquier tipo (sexual, laboral, psicologico)
+
+Integridad:
+- Honestidad en todas las transacciones comerciales
+- No aceptar sobornos, regalos excesivos o beneficios indebidos
+- Declarar conflictos de interes
+- No usar informacion privilegiada para beneficio personal
+
+Confidencialidad:
+- Toda informacion de clientes es estrictamente confidencial
+- No divulgar informacion corporativa sensible
+- No compartir credenciales de acceso
+- Firmar acuerdos de confidencialidad
+
+4.2 USO DE RECURSOS CORPORATIVOS
+
+Equipo de Computo:
+- Uso principalmente para actividades laborales
+- Uso personal moderado permitido (email, noticias) fuera de horas criticas
+- Prohibido descargar software no autorizado
+- Prohibido visitar sitios inapropiados
+- Todo el trafico de red es monitoreado
+
+Telefonos Corporativos:
+- Llamadas personales ocasionales permitidas
+- Llamadas de larga distancia personales deben reportarse
+- Prohibido uso para fines comerciales personales
+
+Internet y Email:
+- Acceso a internet monitoreado por seguridad
+- Email corporativo solo para temas de trabajo
+- No enviar cadenas, spam o contenido ofensivo
+- Firma de email debe incluir disclaimer corporativo
+
+Redes Sociales:
+- Libre de publicar sobre la empresa, pero debe ser respetuoso
+- No divulgar informacion confidencial
+- No hablar en nombre de la empresa sin autorizacion
+- Identificar opiniones personales como propias
+
+Instalaciones:
+- Mantener area de trabajo limpia y ordenada
+- No fumar dentro de instalaciones
+- No introducir alcohol o drogas
+- Reportar condiciones inseguras
+
+4.3 PROCEDIMIENTO DE DENUNCIAS
+
+Canales de Reporte:
+- Linea etica anonima: 800-XXX-XXXX (24/7)
+- Email: etica@techcorp.com
+- Buzon fisico en RR.HH.
+- Directamente con Director de RR.HH.
+
+Tipos de Situaciones a Reportar:
+- Acoso de cualquier tipo
+- Discriminacion
+- Fraude o malversacion
+- Violaciones a politicas de seguridad
+- Conflictos de interes
+- Uso indebido de recursos
+
+Proteccion al Denunciante:
+- Anonimato garantizado si se desea
+- Prohibida cualquier represalia
+- Investigacion confidencial
+- Seguimiento del caso
+
+Proceso de Investigacion:
+1. Recepcion de denuncia: 24 horas
+2. Investigacion preliminar: 5 dias habiles
+3. Investigacion completa: 15-30 dias habiles
+4. Resolucion y acciones: 5 dias habiles
+5. Comunicacion al denunciante: 3 dias habiles
+
+4.4 POLITICA DE CERO TOLERANCIA
+
+Conductas con Terminacion Inmediata:
+- Robo o fraude
+- Violencia fisica o amenazas
+- Acoso sexual comprobado
+- Divulgacion de informacion confidencial critica
+- Falsificacion de documentos
+- Venta o posesion de drogas en instalaciones
+- Violaciones graves de seguridad de la informacion
+
+================================================================================
+SECCION 5: SEGURIDAD DE LA INFORMACION
+================================================================================
+
+5.1 POLITICAS DE ACCESO
+
+Credenciales:
+- Usuario unico e intransferible
+- Contraseñas minimo 12 caracteres
+- Cambio obligatorio cada 90 dias
+- No reutilizar ultimas 5 contraseñas
+- Autenticacion de dos factores obligatoria
+
+Niveles de Acceso:
+- Basico: Empleados generales
+- Intermedio: Coordinadores y especialistas
+- Avanzado: Gerentes
+- Administrativo: Solo personal autorizado
+
+Permisos:
+- Principio de minimo privilegio
+- Acceso bajo solicitud justificada
+- Revision trimestral de permisos
+- Revocacion inmediata al cambiar de puesto
+
+5.2 PROTECCION DE DATOS
+
+Clasificacion de Informacion:
+
+Publica:
+- Material de marketing
+- Informacion en sitio web
+- Comunicados de prensa
+
+Interna:
+- Politicas y procedimientos
+- Directorio interno
+- Calendarios corporativos
+
+Confidencial:
+- Datos de clientes
+- Informacion financiera
+- Estrategias de negocio
+- Codigo fuente
+
+Critica:
+- Secretos comerciales
+- Informacion personal sensible
+- Credenciales de sistemas criticos
+
+Manejo de Datos:
+- Cifrado de datos sensibles en transito y reposo
+- Backup diario de informacion critica
+- Retention policy de 7 años para datos financieros
+- Eliminacion segura de informacion (shredding, borrado seguro)
+
+5.3 INCIDENTES DE SEGURIDAD
+
+Reporte Inmediato:
+- Perdida de dispositivos
+- Acceso no autorizado sospechoso
+- Phishing o malware detectado
+- Filtracion de datos
+
+Procedimiento:
+1. Notificar a TI inmediatamente
+2. Aislar el dispositivo/sistema afectado
+3. No intentar remediar sin autorizacion
+4. Documentar todos los detalles
+5. Cooperar con investigacion
+
+Sanciones:
+- Incidente menor por negligencia: Amonestacion escrita
+- Incidente repetitivo: Suspension de 1-3 dias
+- Incidente grave: Terminacion de contrato
+- Incidente con dolo: Acciones legales
+
+================================================================================
+SECCION 6: SALUD Y SEGURIDAD OCUPACIONAL
+================================================================================
+
+6.1 PROGRAMA DE SEGURIDAD E HIGIENE
+
+Comision de Seguridad:
+- Integrantes: 5 empleados + 1 representante patronal
+- Reuniones: Mensuales
+- Recorridos de seguridad: Quincenales
+- Investigacion de accidentes: Inmediata
+
+Capacitacion en Seguridad:
+- Induccion: Curso basico de seguridad (4 horas)
+- Anual: Actualizacion en seguridad (2 horas)
+- Especifica: Segun area de trabajo
+- Simulacros: Trimestrales
+
+Equipo de Proteccion Personal:
+- Areas de datacenter: Lentes de seguridad, calzado dielectrico
+- Laboratorios: Bata, lentes, guantes segun protocolo
+- Personal de limpieza: Guantes, cubrebocas, botas
+
+6.2 ERGONOMIA
+
+Estaciones de Trabajo:
+- Sillas ergonomicas ajustables
+- Monitores a altura de ojos
+- Teclado y mouse ergonomicos
+- Reposamuñecas
+- Lampara de escritorio
+
+Pausas Activas:
+- Obligatorias cada 2 horas
+- Duracion: 5-10 minutos
+- Ejercicios de estiramiento
+- Descanso visual
+
+Examenes Medicos:
+- Ingreso: Examen general
+- Periodicos: Cada 2 años (anual para mayores de 40 años)
+- Especiales: Segun exposicion a riesgos
+- Optometria: Anual para usuarios intensivos de computadora
+
+6.3 PREVENCION Y RESPUESTA A EMERGENCIAS
+
+Plan de Evacuacion:
+- Rutas de evacuacion señalizadas
+- Punto de reunion en estacionamiento
+- Brigadas de evacuacion capacitadas
+- Simulacros trimestrales obligatorios
+
+Equipo de Emergencia:
+- Extintores: Revision semestral
+- Botiquin de primeros auxilios en cada piso
+- Desfibriladores (DEA) en recepcion y cafeteria
+- Sistema de alarma contra incendios
+
+Brigadas de Emergencia:
+- Primeros auxilios: 10 brigadistas certificados
+- Combate de incendios: 8 brigadistas
+- Evacuacion: 15 brigadistas
+- Recertificacion anual
+
+Numeros de Emergencia:
+- Seguridad interna: Ext. 911
+- Primeros auxilios: Ext. 912
+- Bomberos: 911
+- Ambulancia: 911 o Cruz Roja XXX-XXXX
+
+================================================================================
+SECCION 7: PROCEDIMIENTOS ADMINISTRATIVOS
+================================================================================
+
+7.1 COMPRAS Y ADQUISICIONES
+
+Niveles de Autorizacion:
+
+Hasta $5,000:
+- Autorizacion: Coordinador de area
+- Proceso: Requisicion simple
+- Tiempo: 1-2 dias habiles
+
+$5,001 - $25,000:
+- Autorizacion: Gerente de area
+- Proceso: 2 cotizaciones minimo
+- Tiempo: 3-5 dias habiles
+
+$25,001 - $100,000:
+- Autorizacion: Director de area
+- Proceso: 3 cotizaciones minimo
+- Evaluacion por compras
+- Tiempo: 7-10 dias habiles
+
+Mas de $100,000:
+- Autorizacion: Direccion General
+- Proceso: Licitacion formal
+- Comite de evaluacion
+- Tiempo: 15-30 dias habiles
+
+Proveedores:
+- Registro en padron de proveedores
+- Evaluacion anual de desempeño
+- Requisitos: RFC, comprobante de domicilio, referencias
+
+7.2 VIAJES DE NEGOCIOS
+
+Autorizacion de Viajes:
+- Nacional: Aprobacion de gerencia con 7 dias de anticipacion
+- Internacional: Aprobacion de direccion con 15 dias de anticipacion
+
+Viaticos:
+
+Nacional:
+- Alimentos: $800 por dia
+- Transporte local: $300 por dia
+- Miscelaneos: $200 por dia
+
+Internacional:
+- USA/Canada: $150 USD por dia
+- Europa: $180 USD por dia
+- Asia: $120 USD por dia
+- Latinoamerica: $100 USD por dia
+
+Hospedaje:
+- Nacional: Hasta $1,500 por noche
+- Internacional: Hasta $200 USD por noche
+- Debe ser en hoteles corporativos o con convenio
+
+Transportacion:
+- Aerea: Clase turista (ejecutiva para vuelos mayores a 6 horas)
+- Terrestre: Primera clase
+- Renta de auto: Categoria intermedia
+- Kilometraje auto propio: $5 por km
+
+Comprobacion:
+- Facturas con RFC de la empresa
+- Tickets de abordar
+- Formato de informe de viaje
+- Plazo: 5 dias habiles posterior al regreso
+
+7.3 GASTOS Y REEMBOLSOS
+
+Gastos Reembolsables:
+- Comidas de trabajo con clientes
+- Transporte relacionado a trabajo
+- Compra de materiales aprobados
+- Capacitaciones autorizadas
+- Telefonia movil (hasta $500 mensuales)
+
+Procedimiento de Reembolso:
+1. Llenar formato de solicitud
+2. Adjuntar comprobantes fiscales
+3. Aprobacion de supervisor
+4. Revision de contabilidad
+5. Pago en siguiente nomina
+
+Requisitos:
+- Facturas a nombre de la empresa (excepto gastos menores)
+- Descripcion detallada del gasto
+- Justificacion de negocio
+- Presentar en max 30 dias naturales
+
+Gastos No Reembolsables:
+- Compras personales
+- Multas de transito
+- Gastos suntuarios
+- Propinas excesivas (max 15%)
+- Bebidas alcoholicas (excepto comidas de negocios aprobadas)
+
+7.4 USO DE VEHICULOS EMPRESARIALES
+
+Asignacion:
+- Pool de vehiculos para uso temporal
+- Asignacion fija para niveles gerenciales
+- Reservacion con 24 horas de anticipacion
+
+Responsabilidades del Usuario:
+- Verificar condiciones del vehiculo antes de usarlo
+- Reportar daños inmediatamente
+- Respetar reglamentos de transito
+- No fumar en vehiculos
+- Mantener limpio el vehiculo
+- No transportar personas no autorizadas
+
+Mantenimiento:
+- Servicio cada 5,000 km o 6 meses
+- Responsable: Area de administracion
+- Lavado semanal
+- Revision de neumaticos mensual
+
+Infracciones:
+- Multas por responsabilidad del conductor son a su cargo
+- Accidentes por negligencia: Cubrir deducible del seguro
+- Perdida de licencia: Suspension de uso de vehiculos
+
+================================================================================
+SECCION 8: POLITICAS ESPECIFICAS POR AREA
+================================================================================
+
+8.1 DESARROLLO DE SOFTWARE
+
+Metodologia:
+- Scrum como marco principal
+- Sprints de 2 semanas
+- Daily standups de 15 minutos
+- Sprint planning, review y retrospective obligatorias
+
+Estandares de Codigo:
+- Code review obligatorio antes de merge
+- Cobertura de pruebas minima: 80%
+- Documentacion de funciones publicas
+- Uso de linters y formatters
+- Seguir guias de estilo del lenguaje
+
+Control de Versiones:
+- Git como sistema principal
+- GitHub/GitLab como repositorio central
+- Branch strategy: GitFlow
+- Commits descriptivos obligatorios
+- Pull requests para todo cambio
+
+Ambientes:
+- Desarrollo: Libre acceso para desarrolladores
+- QA: Deployment automatico desde branch develop
+- Staging: Replica de produccion para pruebas finales
+- Produccion: Deployment solo con aprobacion
+
+8.2 CIBERSEGURIDAD
+
+Monitoreo:
+- 24/7/365 del SOC (Security Operations Center)
+- Analisis de logs en tiempo real
+- Alertas automaticas de actividades sospechosas
+- Respuesta a incidentes en menos de 30 minutos
+
+Pruebas de Penetracion:
+- Trimestrales sobre aplicaciones criticas
+- Anuales sobre toda la infraestructura
+- Red team vs blue team exercises semestrales
+- Reportes con plan de remediacion
+
+Cumplimiento:
+- ISO 27001 certificacion vigente
+- SOC 2 Type II en proceso
+- GDPR compliance para clientes europeos
+- Auditorias externas anuales
+
+Politica de Parches:
+- Criticos: Dentro de 24 horas
+- Altos: Dentro de 7 dias
+- Medios: Dentro de 30 dias
+- Bajos: Dentro de 90 dias
+
+8.3 INFRAESTRUCTURA Y OPERACIONES
+
+SLAs (Service Level Agreements):
+
+Sistemas Criticos:
+- Disponibilidad: 99.95%
+- Tiempo de respuesta: 15 minutos
+- Tiempo de resolucion: 4 horas
+
+Sistemas Importantes:
+- Disponibilidad: 99.5%
+- Tiempo de respuesta: 1 hora
+- Tiempo de resolucion: 8 horas
+
+Sistemas Normales:
+- Disponibilidad: 99%
+- Tiempo de respuesta: 4 horas
+- Tiempo de resolucion: 24 horas
+
+Ventanas de Mantenimiento:
+- Programadas: Domingos 2:00 AM - 6:00 AM
+- Comunicacion: Con 7 dias de anticipacion
+- Aprobacion requerida de usuarios afectados
+
+Disaster Recovery:
+- RPO (Recovery Point Objective): 1 hora
+- RTO (Recovery Time Objective): 4 horas
+- Backup completo diario
+- Backup incremental cada 6 horas
+- Prueba de recuperacion trimestral
+
+8.4 ATENCION AL CLIENTE
+
+Canales de Soporte:
+
+Telefono:
+- Horario: 8 AM - 10 PM (Lun-Vie), 9 AM - 6 PM (Sab)
+- Tiempo de espera max: 3 minutos
+- Primera llamada resolucion meta: 70%
+
+Email:
+- Respuesta inicial: 2 horas
+- Resolucion: 24 horas (tickets normales)
+
+Chat en Vivo:
+- Horario: 9 AM - 8 PM (Lun-Vie)
+- Respuesta inicial: 1 minuto
+- Atencion simultanea: 3 conversaciones max
+
+Niveles de Servicio:
+
+Nivel 1 (Soporte Basico):
+- Atiende: Preguntas generales, issues comunes
+- Resuelve: 60% de casos
+- Escalation: A nivel 2 si no resuelve en 30 min
+
+Nivel 2 (Soporte Tecnico):
+- Atiende: Problemas tecnicos complejos
+- Resuelve: 30% de casos
+- Escalation: A nivel 3 o desarrollo
+
+Nivel 3 (Especialistas):
+- Atiende: Problemas criticos, bugs
+- Acceso: Directo a ingenieria
+- Solucion: Fixes o workarounds
+
+Prioridades:
+
+Critico (P1):
+- Sistema caido, afecta a todos los usuarios
+- Respuesta: 15 minutos
+- Resolucion: 4 horas
+
+Alto (P2):
+- Funcionalidad importante afectada
+- Respuesta: 1 hora
+- Resolucion: 8 horas
+
+Medio (P3):
+- Problema que afecta a pocos usuarios
+- Respuesta: 4 horas
+- Resolucion: 24 horas
+
+Bajo (P4):
+- Preguntas generales, mejoras
+- Respuesta: 8 horas
+- Resolucion: 5 dias
+
+Metricas de Calidad:
+- CSAT (Customer Satisfaction): Meta 90%
+- NPS (Net Promoter Score): Meta 50
+- FCR (First Contact Resolution): Meta 75%
+- AHT (Average Handle Time): 8 minutos telefono, 15 minutos chat
+
+================================================================================
+SECCION 9: RESPONSABILIDAD SOCIAL CORPORATIVA
+================================================================================
+
+9.1 SOSTENIBILIDAD AMBIENTAL
+
+Politica Ambiental:
+- Reduccion de huella de carbono 20% para 2026
+- Uso de energia renovable: Meta 50% para 2025
+- Politica de cero papel en areas administrativas
+- Reciclaje obligatorio en todas las instalaciones
+
+Iniciativas:
+
+Energia:
+- Paneles solares en oficina principal
+- Iluminacion LED en todas las instalaciones
+- Sensores de movimiento para luces
+- Apagado automatico de equipos fuera de horario
+
+Residuos:
+- Separacion de basura: Organicos, inorganicos, reciclables
+- Programa de reciclaje de electronicos
+- Compostaje de residuos organicos de cafeteria
+- Reduccion de uso de plasticos desechables
+
+Movilidad:
+- Incentivo para uso de transporte publico: $500 mensuales
+- Estacionamiento preferente para autos electricos/hibridos
+- Instalacion de cargadores para vehiculos electricos
+- Programa de carpooling entre empleados
+
+9.2 VOLUNTARIADO CORPORATIVO
+
+Programa de Voluntariado:
+- 2 dias pagados al año para actividades de voluntariado
+- Matching de donaciones: La empresa iguala donaciones de empleados
+- Actividades organizadas: Limpieza de playas, reforestacion, comedores comunitarios
+
+Causas Apoyadas:
+- Educacion: Donacion de equipos de computo a escuelas
+- Tecnologia social: Desarrollo de apps para ONGs
+- Inclusion digital: Cursos gratuitos de programacion para jovenes
+
+Impacto 2024:
+- 3,500 horas de voluntariado
+- 50 computadoras donadas
+- 200 jovenes capacitados en programacion
+- 5 toneladas de plastico recolectado
+
+9.3 DIVERSIDAD E INCLUSION
+
+Compromiso:
+- Equidad de genero: Meta 50-50 para 2026
+- Inclusion de personas con discapacidad: 5% de plantilla
+- Diversidad cultural: Ambiente multicultural
+- Equidad salarial: Mismo trabajo, mismo sueldo
+
+Programas:
+
+Women in Tech:
+- Mentoria para mujeres en tecnologia
+- Networking events trimestrales
+- Becas para capacitacion
+- Meta: 40% mujeres en puestos tecnicos para 2026
+
+Inclusion de Personas con Discapacidad:
+- Instalaciones accesibles
+- Tecnologias de asistencia
+- Capacitacion a empleados en inclusion
+- Trabajo remoto facilitado
+
+LGBTQ+ Friendly:
+- Politica de no discriminacion explicita
+- Beneficios extendidos a parejas del mismo sexo
+- Grupo de afinidad LGBTQ+
+- Uso de pronombres preferidos respetado
+
+Capacitacion en Diversidad:
+- Curso anual obligatorio (4 horas)
+- Unconscious bias training
+- Cultural competency workshops
+
+================================================================================
+SECCION 10: PROCEDIMIENTOS DE SALIDA
+================================================================================
+
+10.1 RENUNCIA VOLUNTARIA
+
+Aviso:
+- Minimo 15 dias de anticipacion
+- Por escrito dirigido al supervisor y RR.HH.
+- Especificar ultima fecha laboral
+
+Proceso:
+1. Entrega de carta de renuncia
+2. Entrevista de salida con RR.HH.
+3. Transferencia de conocimientos
+4. Devolucion de equipo y activos
+5. Liquidacion de adeudos
+6. Carta de recomendacion (si se solicita)
+
+Finiquito:
+- Dias trabajados pendientes
+- Vacaciones no disfrutadas
+- Parte proporcional de aguinaldo
+- Parte proporcional de prima vacacional
+- Fondo de ahorro (si aplica)
+- Pago: 5 dias habiles posteriores a fecha de termino
+
+10.2 TERMINACION POR CAUSA JUSTIFICADA
+
+Causas:
+- Faltas graves al reglamento
+- Incumplimiento reiterado de obligaciones
+- Actos de violencia o acoso
+- Fraude o robo
+- Ausentismo injustificado (mas de 3 faltas en 30 dias)
+
+Proceso:
+1. Levantamiento de acta administrativa
+2. Derecho de audiencia al empleado
+3. Investigacion interna
+4. Decision final por parte de RR.HH. y Legal
+5. Notificacion por escrito
+6. Finiquito segun lo que proceda por ley
+
+10.3 ENTREVISTA DE SALIDA
+
+Objetivos:
+- Retroalimentacion sobre experiencia laboral
+- Identificar areas de mejora
+- Mantener relacion profesional
+- Oportunidad de regresar en el futuro
+
+Temas Abordados:
+- Motivo real de salida
+- Satisfaccion con trabajo, equipo, liderazgo
+- Compensacion y beneficios
+- Desarrollo profesional
+- Cultura organizacional
+- Sugerencias de mejora
+
+Confidencialidad:
+- Informacion tratada de forma confidencial
+- Agregada para analisis de tendencias
+- No afecta referencias o finiquito
+
+10.4 PROGRAMA DE ALUMNI
+
+Beneficios para Ex-Empleados:
+- Acceso a bolsa de trabajo interna
+- Invitacion a eventos especiales de la empresa
+- Networking con otros alumni
+- Oportunidad de recontratacion preferente
+- Descuentos en productos/servicios de la empresa
+
+Requisitos:
+- Haber trabajado minimo 1 año
+- Salida en buenos terminos
+- Registro en plataforma de alumni
+
+================================================================================
+
+ANEXOS
+================================================================================
+
+ANEXO A: DIRECTORIO DE CONTACTOS CLAVE
+
+Direccion General: ext. 100 | direccion@techcorp.com
+Recursos Humanos: ext. 200 | rrhh@techcorp.com
+Linea Etica: 800-XXX-XXXX | etica@techcorp.com
+Soporte TI: ext. 300 | soporte@techcorp.com
+Recepcion: ext. 0 | recepcion@techcorp.com
+
+ANEXO B: FORMATOS
+
+- Formato de solicitud de vacaciones
+- Formato de solicitud de permiso
+- Formato de reembolso de gastos
+- Formato de requisicion de compra
+- Formato de reporte de incidente de seguridad
+
+ANEXO C: CALENDARIO CORPORATIVO 2025
+
+Enero: Planeacion estrategica anual
+Febrero: Evaluaciones de desempeño (primera ronda)
+Marzo: Semana de innovacion
+Abril: Evento de team building
+Mayo: Mes de la ciberseguridad
+Junio: Evaluaciones de desempeño (segunda ronda)
+Julio: Feria de beneficios
+Agosto: Celebracion de aniversario de la empresa
+Septiembre: Mes de la diversidad e inclusion
+Octubre: Hackathon interno
+Noviembre: Mes del voluntariado
+Diciembre: Fiesta de fin de año y entrega de bonos
+
+ANEXO D: GLOSARIO DE TERMINOS
+
+SLA: Service Level Agreement
+SOC: Security Operations Center
+NDA: Non-Disclosure Agreement
+PTO: Paid Time Off
+HR: Human Resources
+IT: Information Technology
+GDPR: General Data Protection Regulation
+ISO: International Organization for Standardization
+
+================================================================================
+FIN DEL MANUAL
+Este documento es propiedad de TechCorp Solutions S.A. de C.V.
+Ultima revision: Enero 2025
+Proxima revision programada: Enero 2026
+================================================================================
