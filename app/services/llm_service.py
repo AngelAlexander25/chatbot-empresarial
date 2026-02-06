@@ -29,9 +29,12 @@ class LLMService:
             self.context = self._load_context()
     
     def _load_context(self):
+        """Carga el contexto desde el archivo de documentos (siempre lee la versión más reciente)"""
         try:
             with open("data/documentos_empresa.txt", "r", encoding="utf-8") as f:
-                return f.read()
+                content = f.read()
+                logger.info(f"Documentos de empresa cargados: {len(content)} caracteres")
+                return content
         except FileNotFoundError:
             logger.error("No se encontro el archivo de documentos")
             return ""
@@ -88,11 +91,14 @@ class LLMService:
             self._initialize()
             logger.info(f"Pregunta recibida: {question}")
             
+            # SIEMPRE cargar el contexto fresco desde el archivo (así se usan los cambios nuevos)
+            fresh_context = self._load_context()
+            
             # Buscar automáticamente información adicional si es necesario
             additional_context = self._auto_search_info(question)
             
-            # Construir el contexto completo
-            full_context = self.context + additional_context
+            # Construir el contexto completo con datos frescos
+            full_context = fresh_context + additional_context
             
             system_prompt = f"""Eres un asistente de IA inteligente y útil. 
 Tu trabajo es responder preguntas usando la siguiente información:
